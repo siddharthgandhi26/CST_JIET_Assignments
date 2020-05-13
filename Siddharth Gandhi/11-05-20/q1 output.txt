@@ -1,0 +1,7 @@
+Array is:
+2 4 7 2 7 2 4
+the answer is 2
+
+--------------------------------
+Process exited after 0.01988 seconds with return value 0
+Press any key to continue . . .
