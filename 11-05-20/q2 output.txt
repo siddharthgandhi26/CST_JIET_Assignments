@@ -1,0 +1,7 @@
+Array is:
+9 5 3
+min ans is6
+--------------------------------
+Process exited after 0.07571 seconds with return value 0
+Press any key to continue . . .
+

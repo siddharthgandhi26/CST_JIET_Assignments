@@ -1,0 +1,6 @@
+enter number of bricks:
+5
+ans is2
+--------------------------------
+Process exited after 1.895 seconds with return value 0
+Press any key to continue . . .
