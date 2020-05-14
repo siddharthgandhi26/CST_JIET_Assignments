@@ -1,0 +1,8 @@
+enter value 1:
+5
+enter value 2:
+6
+Greatest common divisor is:1
+--------------------------------
+Process exited after 3.094 seconds with return value 0
+Press any key to continue . . .

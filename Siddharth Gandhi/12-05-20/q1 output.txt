@@ -1,0 +1,15 @@
+Integer A:
+1
+Integer B:
+6
+Integer C:
+8
+numbers are:
+total numbers are 0
+--------------------------------
+Process exited after 3.641 seconds with return value 0
+Press any key to continue . . .
+
+
+
+
